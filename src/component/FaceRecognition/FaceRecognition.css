@@ -1,0 +1,13 @@
+
+
+.bounding-box{
+    position: absolute;
+    flex-wrap: wrap;    
+    justify-content: center;
+    cursor: pointer;
+    z-index: 1;
+}
+
+.bounding-box:hover{
+    box-shadow: 0 0 0 3px #1eaccf inset;
+}
